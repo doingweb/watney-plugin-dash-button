@@ -25,7 +25,7 @@
   "homepage": "https://github.com/doingweb/watney-plugin-dash-button#readme",
   "dependencies": {
     "cap": "^0.2.0",
-    "inquirer": "^6.1.0",
+    "inquirer": "^7.0.0",
     "watney-app": "^1.1.0"
   },
   "devDependencies": {
